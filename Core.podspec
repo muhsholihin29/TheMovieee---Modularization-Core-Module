@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
 
   s.author = { "Gilang Ramadhan" => "gilang@dicoding.com" }
 
-  s.homepage = "https://github.com/muhsholihin29/TheMovieee---Modularization-Core-Module.git"
+  s.homepage = "https://github.com/muhsholihin29/TheMovieee---Modularization-Core-Module"
 
   s.source = {
     :git => "https://github.com/muhsholihin29/TheMovieee---Modularization-Core-Module.git",
