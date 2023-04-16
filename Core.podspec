@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.summary = "Dicoding Core.framework for modularization chapter"
   s.requires_arc = true
 
-  s.version = "1.0.4"
+  s.version = "1.0.5"
 
   s.license = { :type => "MIT", :file => "LICENSE" }
 
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 
   s.framework = "UIKit"
 
-  s.source_files = "Source/Core/**/*.{swift}"
+  s.source_files = "Sources/Core/**/*.{swift}"
 
   #s.resources = "Core/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
   #s.dependency 'Alamofire'
