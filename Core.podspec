@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.summary = "Dicoding Core.framework for modularization chapter"
   s.requires_arc = true
 
-  s.version = "1.0.5"
+  s.version = "1.0.6"
 
   s.license = { :type => "MIT", :file => "LICENSE" }
 
